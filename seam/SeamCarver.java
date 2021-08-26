@@ -2,6 +2,7 @@
  *  Name: Junwoo Lee
  *  Date: 6/4/2020
  *  Description: https://coursera.cs.princeton.edu/algs4/assignments/seam/specification.php
+ *  I have done all the coding by myself
  **************************************************************************** */
 
 import edu.princeton.cs.algs4.Picture;
